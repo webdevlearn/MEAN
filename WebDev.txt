@@ -1,0 +1,45 @@
+1) HTML
+http://www.w3schools.com/html/
+https://www.thenewboston.com/videos.php?cat=43
+2)CSS3 (oi nees texnologies einai to SASS kai to LESS )
+https://www.youtube.com/watch?v=LqvFIuVlyP8&list=PL41lfR-6DnOruqMacTfff1zrEcqtmm7Fv
+2.1)Bootstrap(responsive design TO ZITANE)
+https://www.youtube.com/watch?v=mKt-MDwtVB4&list=PLvAAZChoagM3Ch63apDSE6Ra6NeI62sQV
+http://getbootstrap.com/
+3)Javascript
+https://www.thenewboston.com/videos.php?cat=10
+3.1)Ajax
+https://www.thenewboston.com/videos.php?cat=61
+3.2)JQuery
+https://www.thenewboston.com/videos.php?cat=32
+3.3)AngularJS
+https://www.youtube.com/watch?v=i9MHigUZKEM&list=PLiBLzyAAV4kOnmuiVeXRpt3IytMpODi-t
+
+4)BackEnd(auto einai to kommati tou kwdika pou den vlepei o xrhsths pou diaxeirizetai tn server)
+4.1)PHP
+https://www.thenewboston.com/videos.php?cat=11
+https://www.thenewboston.com/videos.php?cat=87
+4.2)Express (framework tis nodeJS)
+https://www.youtube.com/watch?v=QseHOX-5nJQ
+https://www.youtube.com/watch?v=p-x6WdwaJco
+
+
+Advanced (MEAN(Mongo Express AngularJS Node)) Fullstack page dld backend kai front end
+https://www.youtube.com/watch?v=AEE7DY2AYvI
+https://www.youtube.com/playlist?list=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U
+https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De23EJMy1PdA&h=gAQGHfqg7
+https://www.codeabroad.eu/job/software-developer-fulltime-at-itdata-solutions
+
+
+https://www.youtube.com/watch?v=Jh0er2pRcq8
+
+https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7YcW25PHnAA&h=wAQHpWKP9
+https://www.youtube.com/watch?v=7YcW25PHnAA
+
+http://www.phloxblog.in/quick-guide-mongodb-work/#.VRMiGvzF-32
+
+http://stackoverflow.com/questions/5878682/node-js-hash-string(kruptografish)
+
+http://www.sitepoint.com/understanding-module-exports-exports-node-js/
+http://stackoverflow.com/questions/5878682/node-js-hash-string
+http://www.unit-testing.net/Article/Articles
