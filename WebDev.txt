@@ -14,7 +14,7 @@ https://www.thenewboston.com/videos.php?cat=61
 https://www.thenewboston.com/videos.php?cat=32
 3.3)AngularJS
 https://www.youtube.com/watch?v=i9MHigUZKEM&list=PLiBLzyAAV4kOnmuiVeXRpt3IytMpODi-t
-
+http://pt.slideshare.net/cauealves18/getting-started-with-promises-in-angularjs
 4)BackEnd(auto einai to kommati tou kwdika pou den vlepei o xrhsths pou diaxeirizetai tn server)
 4.1)PHP
 https://www.thenewboston.com/videos.php?cat=11
