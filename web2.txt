@@ -1,4 +1,12 @@
 https://www.youtube.com/watch?v=PH_5lXxSpww
+
 https://www.youtube.com/watch?v=yvviEA1pOXw
+
 https://www.youtube.com/watch?v=1hoPwWR_qC4
+
 https://www.youtube.com/watch?v=twav6O53zIQ
+
+http://codeforgeek.com/2015/01/render-html-file-expressjs/
+https://github.com/tutsplus/build-complete-website-expressjs
+http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168
+http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/
